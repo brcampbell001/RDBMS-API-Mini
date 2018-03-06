@@ -59,3 +59,5 @@ When the client makes a `GET` request to `/api/zoos/:id` (remember, `:id` is a
 parameter embedded in the URL, not in the query-string):
 
 - Find the zoo associated with the given `id`. Remember to handle errors and send the correct status code.
+
+Update and delete on the zoos and try same thing with the bears
